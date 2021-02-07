@@ -76,4 +76,4 @@ The l1 trend filtering function (l1tf.m) are downloaded from Prof. Stephen Boyd&
 
 **Future improvements:**
 
-The ghost images pose a challenge for robust depth extraction of scenes showing a very large depth range. Better handling ghost images includes using more projection angles in LIFT and also smart algorithms, which will need more efforts and innovation.
+The ghost images pose a challenge for robust depth extraction of scenes with a very large depth range. Better handling of ghost images includes using more projection angles in LIFT and smart algorithms, which will need more efforts and innovative thinking.
